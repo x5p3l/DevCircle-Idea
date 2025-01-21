@@ -1,5 +1,20 @@
-# DevCircle
-### Platforma Edukacyjno-Rywalizacyjna o kierunku programowania 
+<table>
+  <tr>
+    <td colspan="2" style="text-align: center; font-size: 34px; font-weight: bold; padding-bottom: 10px;">
+      DevCircle
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right: 20px; text-align: center; vertical-align: middle; font-size: 18px; font-weight: bold;">
+      Platforma Edukacyjno-Rywalizacyjna o kierunku programowania
+    </td>
+    <td style="text-align: left; vertical-align: middle;">
+      <img src="https://spel.svpj.pl/public-assets/devcirclelogo1.png" alt="Logo DevCircle" width="200" />
+    </td>
+  </tr>
+</table>
+
+### 
 
 ---
 
@@ -56,6 +71,7 @@ Tworzenie platformy umożliwiającej uczniom, studentom i nauczycielom wspólną
   - Widok postępów uczniów.
   - Raporty i oceny.
 - Przydzielanie zadań domowych.
+
 
 ## Główne założenia
 - **Dostępność:** Łatwy w obsłudze interfejs dla osób bez doświadczenia technicznego.
