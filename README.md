@@ -1,7 +1,7 @@
+# DevCircle
 <table>
   <tr>
     <td colspan="2" style="text-align: center; font-size: 34px; font-weight: bold; padding-bottom: 10px;">
-      DevCircle
     </td>
   </tr>
   <tr>
